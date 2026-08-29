@@ -1,4 +1,4 @@
-name = 'amir'
+name = 'reyhaneh posho'
 
 def hello(user):
     print(f'hello {user}')
